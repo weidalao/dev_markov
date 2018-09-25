@@ -4,7 +4,7 @@
 #include <asm/uaccess.h>
 #include <linux/jiffies.h>
 
-// Module Stuff
+// Module Stuff         my test 2018-9-25 weidalao
 MODULE_LICENSE("Apache"); // Change this to "GPL" if you get annoyed about
                           // the kernal playing a crying fit about non GPL stuff
 MODULE_DESCRIPTION("A Markov device driver.");
